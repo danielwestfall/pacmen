@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Project Name
+> PacMen Project
 
-You can use the [editor on GitHub](https://github.com/danielwestfall/pacmen/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## General info
+Add more general information about project. What the purpose of the project is? Motivation?
 
-### Markdown
+## Screenshots
+![Example screenshot](pacmen.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technologies
+* HTML
+* CSS
+* JavaScript
 
-```markdown
-Syntax highlighted code block
+## Setup
+Feel free to fork it and make your own changes. Check out the project here (https://danielwestfall.github.io/pacmen/pacmen.html).
 
-# Header 1
-## Header 2
-### Header 3
+Click the Add PacMan to generate a PacMan who will travel at a random velocity. The Start Game button starts the motion! You can add more PacMen even after the game begins.
 
-- Bulleted
-- List
+## Code Examples
+Show examples of usage:
+`put-your-code-here`
 
-1. Numbered
-2. List
+## Features
+List of features ready and TODOs for future development
+* Change PacMan direction after hitting the walls
+* Add Blinky, Pinky, Inky and Clyde
+* Detect collision between PacMen and friends
 
-**Bold** and _Italic_ and `Code` text
+To-do list:
+* Change image dynamically when PacMan hits the wall to be facing the correct direction
+* Add PacMan's friends and create collision detection between each character
 
-[Link](url) and ![Image](src)
-```
+## Status
+Project is: _in progress_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Project done to class specifications. I plan on making the game more complex.
 
-### Jekyll Themes
+## Inspiration
+Project created by MIT xPro Full Stack Web Development Course. Completed by Daniel Westfall.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielwestfall/pacmen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact
+Created by [@danwestfall6](https://danielwestfall.github.io/) - feel free to contact me!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+MIT
