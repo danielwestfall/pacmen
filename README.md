@@ -56,7 +56,7 @@ Project done to class specifications. I have added code to make PacMen face the 
 Project created by MIT xPro Full Stack Web Development Course. Completed by Daniel Westfall.
 
 ## Contact
-Created by [@danwestfall6](https://danielwestfall.github.io/) - feel free to contact me!
+Created by [DWWestfall](DWWestfall@Protonmail.com) - feel free to contact me!
 
 ## License
 MIT License
