@@ -13,9 +13,9 @@
 
 ## General info
 This project was introduced to introduce multiple design issues:
-*How can we produce many PacMen using the DOM?
-*How can we keep track them using the DOM?
-*How can we keep them on the screen?
+* How can we produce many PacMen using the DOM?
+* How can we keep track them using the DOM?
+* How can we keep them on the screen?
 
 We created a function that setup each instance of a PacMan. Each PacMan had a randomly generated starting point and velocity. I took those details and pushed them into an array. Then we used a forEach array loop to update the positons based on their velocities. I also was required to setup a function to create a boundary out of the top and bottom of the window, detect the collision with a PacMan, and send it the opposite way. After the project completed I have added styles to it, added the ability to make PacMan face the direction it is moving, and added animation we used in a previous PacMan project to have them open and close their mouthes. This project is still a work in progress, see below for a list of upcoming improvements and bug fixes.
 
