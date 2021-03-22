@@ -53,7 +53,7 @@ Project is: _in progress_
 Project done to class specifications. I have added code to make PacMen face the direction they are moving. I also added animation that makes PacMen open and close their mouthes. There is a known bug as when there are an even number of PacMen on the screen the animation breaks. This will be fixed in the future.
 
 ## Inspiration
-Project created by MIT xPro Full Stack Web Development Course. Completed by Daniel Westfall.
+Project created by MIT xPro Full Stack Web Development Course. Completed and modified by Daniel Westfall.
 
 ## Contact
 [Daniel Westfall](mailto:DWWestfall@Protonmail.com).  Check out [my Portfolio](https://danielwestfall.github.io/ "my Portfolio")
