@@ -28,7 +28,7 @@ We created a function that setup each instance of a PacMan. Each PacMan had a ra
 * JavaScript
 
 ## Setup
-Feel free to fork it and make your own changes. You can also download the files to your local machine, unzip them into a folder, and play the game in your local browser. Or you can check out the project here (https://danielwestfall.github.io/pacmen/pacmen.html). 
+Feel free to fork it and make your own changes. You can also download the files to your local machine, unzip them into a folder, and play the game in your local browser. Or you can [check out the project here!](https://danielwestfall.github.io/pacmen/pacmen.html). 
 
 Click the Add PacMan button to generate a PacMan who will travel at a random velocity. The Start Game button starts the motion! You can add more PacMen even after the game begins.
 
