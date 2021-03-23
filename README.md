@@ -1,5 +1,5 @@
 # Project Name
-> [PacMen Project](https://danielwestfall.github.io/pacmen/pacmen.html)
+> [PacMen Project- Click here to view!](https://danielwestfall.github.io/pacmen/pacmen.html)
 
 ## Table of contents
 ---
