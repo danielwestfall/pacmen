@@ -8,31 +8,47 @@ body{
 };
 
 .wrapper{
-    background-color: #778DA9;
+    background-color: #0D1B2A;
+};
+
+.header{
+    background-color: #0D1B2A;
+};
+
+header h1{
+    color: #e0e1DD;
+
+};
+
+header p {
+    color: #778DA9;
+
 };
 
 .project-name{
     font-size: 2em;
-    color: #1B263B;
+    color: #778DA9;
 };
 
 
 h1 {
     font-size: 2em;
+    color: #e0e1DD;
+
 };
 
 blockquote{
     font-variant: normal;
     text-decoration: none;
     font-style: normal;
-    color: #0D1B2A;
+    color: #778DA9;
     font-weight: bold;
     font-size: 1.5em;
-    background-color: #415A77;
+    background-color: #1B263B;
 };
 
 p{
-    color: #0D1B2A;
+    color: #778DA9;
 };
 
 a{
