@@ -4,6 +4,7 @@
 ## Table of contents
 ---
 * [General info](#general-info)
+* [Links](#links)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -20,6 +21,11 @@ This project was introduced to introduce multiple design issues:
 * How can we keep them on the screen?
 
 We created a function that setup each instance of a PacMan. Each PacMan had a randomly generated starting point and velocity. I took those details and pushed them into an array. Then we used a forEach array loop to update the positions based on their velocities. I also was required to setup a function to create a boundary out of the top and bottom of the window, detect the collision with a PacMan, and send it the opposite way. After the project completed I have added styles to it, added the ability to make PacMan face the direction it is moving, and added animation we used in a previous PacMan project to have them open and close their mouths. This project is still a work in progress; see below for a list of upcoming improvements and bug fixes.
+
+## Links
+---
+* [Open the Project](https://danielwestfall.github.io/pacmen/pacmen.html)
+* [View it on GitHub](https://github.com/danielwestfall/pacmen)
 
 ## Screenshots
 ---
