@@ -19,7 +19,7 @@ This project was introduced to introduce multiple design issues:
 * How can we keep track them using the DOM?
 * How can we keep them on the screen?
 
-We created a function that setup each instance of a PacMan. Each PacMan had a randomly generated starting point and velocity. I took those details and pushed them into an array. Then we used a forEach array loop to update the positons based on their velocities. I also was required to setup a function to create a boundary out of the top and bottom of the window, detect the collision with a PacMan, and send it the opposite way. After the project completed I have added styles to it, added the ability to make PacMan face the direction it is moving, and added animation we used in a previous PacMan project to have them open and close their mouthes. This project is still a work in progress, see below for a list of upcoming improvements and bug fixes.
+We created a function that setup each instance of a PacMan. Each PacMan had a randomly generated starting point and velocity. I took those details and pushed them into an array. Then we used a forEach array loop to update the positions based on their velocities. I also was required to setup a function to create a boundary out of the top and bottom of the window, detect the collision with a PacMan, and send it the opposite way. After the project completed I have added styles to it, added the ability to make PacMan face the direction it is moving, and added animation we used in a previous PacMan project to have them open and close their mouths. This project is still a work in progress; see below for a list of upcoming improvements and bug fixes.
 
 ## Screenshots
 ---
@@ -57,7 +57,7 @@ Known bugs:
 ---
 Project is: _in progress_
 
-Project done to class specifications. I have added code to make PacMen face the direction they are moving. I also added animation that makes PacMen open and close their mouthes. There is a known bug as when there are an even number of PacMen on the screen the animation breaks. This will be fixed in the future.
+Project done to class specifications. I have added code to make PacMen face the direction they are moving. I also added animation that makes PacMen open and close their mouths. There is a known bug as when there are an even number of PacMen on the screen the animation breaks. This will be fixed in the future.
 
 ## Inspiration
 ---
