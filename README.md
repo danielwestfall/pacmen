@@ -26,6 +26,7 @@ We created a function that setup each instance of a PacMan. Each PacMan had a ra
 ---
 * [Open the Project](https://danielwestfall.github.io/pacmen/pacmen.html)
 * [View it on GitHub](https://github.com/danielwestfall/pacmen)
+* [View my Portfolio](https://danielwestfall.github.io/)
 
 ## Screenshots
 ---
